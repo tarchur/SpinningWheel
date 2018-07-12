@@ -10,3 +10,9 @@ Please note that this is a provisional list.
 - [x] Pulley, bobbin ans spinning bits for spinning wheel - recycled from a second-hand spinning wheel.
 - [ ] box to hold motor
 - [x] belt to connect the pulleys - use a sewing machine belt, as they come in standard sizes for popular brands.
+
+Standard tools:
+[x] Multimeter
+[x] Wire - check the gauge for current spec
+[x] drill, screwdriver, etc
+[x] Accurate tools for marking (Important to line the spinning wheel pulley up with the motor shaft pulley)
