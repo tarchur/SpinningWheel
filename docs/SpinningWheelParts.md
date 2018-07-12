@@ -11,9 +11,9 @@ Please note that this is a provisional list.
 - [x] belt to connect the pulleys - use a sewing machine belt, as they come in standard sizes for popular brands.
 
 Standard tools:
-[x] Multimeter
-[x] Wire - check the gauge for current spec
-[x] drill, screwdriver, saw, chisel, screws, etc
-[x] Accurate tools for marking (Important to line the spinning wheel pulley up with the motor shaft pulley)
+- [x] Multimeter
+- [x] Wire - check the gauge for current spec
+- [x] drill, screwdriver, saw, chisel, screws, etc
+- [x] Accurate tools for marking (Important to line the spinning wheel pulley up with the motor shaft pulley)
 
 [Back to main Spinning project page](https://tarchur.github.io/SpinningWheel/)
