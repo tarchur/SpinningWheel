@@ -6,7 +6,7 @@ Please note that this is a provisional list.
 - [ ] Power source
 - [ ] Motor controller / motor shield: H-Bridge (The motor will need to turn the pulley both clockwise and anticlockwise). The motor can't be controlled directly by the Arduino, as it needs a higher power rating.
 - [x] Standard-size pulley that will fit onto motor shaft. Use a sewing-machine pulley if possible.
-- [x] Pulley, bobbin ans spinning bits for spinning wheel - recycled from a second-hand spinning wheel
+- [x] Pulley, bobbin and spinning sundries - recycled from a second-hand spinning wheel
 - [ ] Box to hold motor
 - [x] Belt to connect the pulleys - use a sewing machine belt, as they come in standard sizes for popular brands.
 - [ ] Power switch
