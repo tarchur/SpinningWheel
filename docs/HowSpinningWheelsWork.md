@@ -12,3 +12,5 @@ With a traditional spinning wheel:
  - The smaller pulley adds twist to the yarn.
  
 With an electronic spinning wheel, you create twist by driving the smaller pulley with a motor.
+
+[Back to main Spinning project page](https://tarchur.github.io/SpinningWheel/)
