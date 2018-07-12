@@ -1,4 +1,4 @@
-##Parts list
+## Parts list
 Please note that this is a provisional list. 
 
 - [ ] DC motor (they're quieter than AC motors, and can be run from a 12-V power bank. A 5A motor will be necessary.
